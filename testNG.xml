@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="test Suite">
+
+    <test name="run in order of priority">
+
+        <classes>
+            <class name="TestNG"></class>
+        </classes>
+    </test>
+</suite>
